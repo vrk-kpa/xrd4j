@@ -1,3 +1,9 @@
+# Unmaintained Repository
+
+Unmaintained repository. Development moved to: https://github.com/nordic-institute/xrd4j
+
+xrd4j is now actively developed by the Nordic Institute for Interoperability Solutions (NIIS) The original xrd4j codebase here will be kept for archive purposes.
+
 # XRd4J
 
 XRd4J is a Java library for building X-Road v6 Adapter servers and clients. The library implements X-Road v6 [SOAP profile](https://github.com/ria-ee/X-Road/blob/master/doc/Protocols/pr-mess_x-road_message_protocol.md) v4.0 and [Service Metadata Protocol](https://github.com/ria-ee/X-Road/blob/master/doc/Protocols/pr-meta_x-road_service_metadata_protocol.md). The library takes care of serialization and deserialization of SOAP messages offering built-in support for standard X-Road SOAP headers; only processing of application specific request and response content remains to be implemented.
@@ -120,5 +126,4 @@ To enable processing of SOAP Body elements in compatibility mode with older vers
 
 ## Credits
 
-XRd4J library was originally developed by Petteri Kivimäki (https://github.com/petkivim) during 2014-2017. In June 2017 it was agreed that Population Register Centre (VRK) takes maintenance responsibility.
-
+XRd4J library was originally developed by Petteri Kivimäki (https://github.com/petkivim) during 2014-2017. In June 2017 it was agreed that Population Register Centre (VRK) takes maintenance responsibility. In June 2018 maintenance of the repository moved to NIIS.
